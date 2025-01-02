@@ -632,4 +632,44 @@ html {
       text-decoration: underline;
     }
     
-      
+    .workpic svg {
+      width: 100%;
+      max-width: 300px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .workpic svg {
+      width: 100%;
+      max-width: 300px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    #certificates {
+      margin-top: 50px;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    
+    .certificate-card {
+      margin: 15px auto;
+      text-align: center;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 10px;
+    }
+    
+    .certificate-card svg {
+      width: 100%;
+      max-width: 200px;
+      height: auto;
+    }
+    
+    .certificate-card p {
+      margin-top: 10px;
+      font-weight: bold;
+      color: #333;
+    }
+        
